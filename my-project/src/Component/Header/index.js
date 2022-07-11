@@ -9,7 +9,7 @@ function Header() {
           <Logo width="w-80" height="h-20" /* CAMBIAR TAMAÑO DEL LOGO *//>
         </div>
         <div className="w-1/2 pr-16 flex gap-3 items-center justify-end">
-          <p>¡Bienvenido!</p>
+          <p>Imaginen que esto es symbolab</p>
         </div>
       </div>
     </>

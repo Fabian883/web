@@ -9,7 +9,7 @@ test('adds 0 + 100 to equal 100', () => {
 });
 
 test('adds 49 + 51 to equal 100', () => {
-  expect(sum(49, 51)).toBe(3);
+  expect(sum(49, 51)).toBe(100);
 });
 
 test('adds -100 + -900 to equal -1000', () => {
